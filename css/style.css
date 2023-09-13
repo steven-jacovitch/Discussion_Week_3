@@ -1,0 +1,40 @@
+body {
+    background: #b9e192;
+    color: black;
+
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-size: 35px;
+    color: rgb(70, 64, 64);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+    font-size: 25px;
+    color: navy;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+p{
+    line-height: 200%;
+    font-size: 20px;
+}
+
+img{
+    border: 5px solid navy;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li{
+    margin-left: 50px;
+    display: inline-block;
+}
