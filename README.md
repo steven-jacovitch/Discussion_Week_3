@@ -1,2 +1,1 @@
-# Discussion_Week_3
-SI 539 Discussion_Week_3
+# f23_common_project_starter_code
